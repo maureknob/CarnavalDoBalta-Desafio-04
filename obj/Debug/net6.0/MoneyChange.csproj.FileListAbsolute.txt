@@ -1,0 +1,15 @@
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\bin\Debug\net6.0\MoneyChange.exe
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\bin\Debug\net6.0\MoneyChange.deps.json
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\bin\Debug\net6.0\MoneyChange.runtimeconfig.json
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\bin\Debug\net6.0\MoneyChange.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\bin\Debug\net6.0\MoneyChange.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.csproj.AssemblyReference.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.AssemblyInfoInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.AssemblyInfo.cs
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.csproj.CoreCompileInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\refint\MoneyChange.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\MoneyChange.genruntimeconfig.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\MoneyChange\obj\Debug\net6.0\ref\MoneyChange.dll
